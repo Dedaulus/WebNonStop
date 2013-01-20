@@ -1,0 +1,13 @@
+#IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+gen-external-apklibs
+out
+gen
+proguard_logs*
+*.apk
+*DS_Store*
+local.properties

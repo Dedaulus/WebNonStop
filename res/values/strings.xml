@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebNonStop</string>
+    <string name="menu_url">Set URL</string>
+    <string name="menu_url_hint">Home URL</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
